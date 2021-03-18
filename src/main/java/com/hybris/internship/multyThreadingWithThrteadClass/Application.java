@@ -1,4 +1,4 @@
-package com.hybris.internship;
+package com.hybris.internship.multyThreadingWithThrteadClass;
 
 public class Application {
 

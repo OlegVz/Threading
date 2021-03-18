@@ -1,6 +1,6 @@
-package com.hybris.internship;
+package com.hybris.internship.multyThreadingWithRunnableInterface;
 
-public class Application1 {
+public class Application {
 
     public static void main(String[] args) {
 
@@ -24,6 +24,7 @@ public class Application1 {
                 }
             }
         });
+
         thread2.start();
     }
 }
